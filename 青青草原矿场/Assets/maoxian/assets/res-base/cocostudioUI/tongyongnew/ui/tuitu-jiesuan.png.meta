@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: da11586ee1385484e973788f4361308e
+timeCreated: 1504704853
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tuitu-jiesuan_0
+    21300002: tuitu-jiesuan_1
+    21300004: tuitu-jiesuan_2
+    21300006: tuitu-jiesuan_3
+    21300008: tuitu-jiesuan_4
+    21300010: tuitu-jiesuan_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tuitu-jiesuan_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 394
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -181, y: 24}
+        - {x: -195, y: 22}
+        - {x: -197, y: 14}
+        - {x: -197, y: -6}
+        - {x: -194, y: -7}
+        - {x: -190, y: -6}
+        - {x: -188, y: -5}
+        - {x: -188, y: -3}
+        - {x: -189, y: -7}
+        - {x: -193, y: -14}
+        - {x: -159, y: -24}
+        - {x: 88, y: -24}
+        - {x: 197, y: -3}
+        - {x: 197, y: 4}
+        - {x: 96, y: 24}
+    - name: tuitu-jiesuan_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 190
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tuitu-jiesuan_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 146
+        width: 482
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tuitu-jiesuan_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 339
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -168.5, y: 16}
+        - {x: -169.5, y: 13}
+        - {x: -169.5, y: -16}
+        - {x: 167.5, y: -16}
+        - {x: 169.5, y: -14}
+        - {x: 169.5, y: 13}
+        - {x: 168.5, y: 16}
+    - name: tuitu-jiesuan_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 177
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 70}
+        - {x: -88.5, y: 60}
+        - {x: -88.5, y: -61}
+        - {x: -77.5, y: -70}
+        - {x: 80.5, y: -70}
+        - {x: 88.5, y: -69}
+        - {x: 88.5, y: 69}
+        - {x: 82.5, y: 70}
+    - name: tuitu-jiesuan_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 288
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: 22.5}
+        - {x: -144, y: 21.5}
+        - {x: -144, y: -21.5}
+        - {x: -143, y: -22.5}
+        - {x: 144, y: -22.5}
+        - {x: 144, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

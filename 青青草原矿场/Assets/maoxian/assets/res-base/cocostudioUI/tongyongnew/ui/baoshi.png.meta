@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: d5540827c7941bf479e9a264f54a4e55
+timeCreated: 1505811945
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: baoshi_0
+    21300002: baoshi_1
+    21300004: baoshi_2
+    21300006: baoshi_3
+    21300008: baoshi_4
+    21300010: baoshi_5
+    21300012: baoshi_6
+    21300014: baoshi_7
+    21300016: baoshi_8
+    21300018: baoshi_9
+    21300020: baoshi_10
+    21300022: baoshi_11
+    21300024: baoshi_12
+    21300026: baoshi_13
+    21300028: baoshi_14
+    21300030: baoshi_15
+    21300032: baoshi_16
+    21300034: baoshi_17
+    21300036: baoshi_18
+    21300038: baoshi_19
+    21300040: baoshi_20
+    21300042: baoshi_21
+    21300044: baoshi_22
+    21300046: baoshi_23
+    21300048: baoshi_24
+    21300050: baoshi_25
+    21300052: baoshi_26
+    21300054: baoshi_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: baoshi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 432
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 216, y: -79}
+        - {x: 216, y: 79}
+        - {x: 191, y: 79}
+        - {x: 190, y: 78}
+        - {x: -188, y: 78}
+        - {x: -189, y: 79}
+        - {x: -216, y: 79}
+        - {x: -216, y: 5}
+        - {x: -215, y: -44}
+        - {x: -216, y: -45}
+        - {x: -216, y: -79}
+        - {x: -190, y: -79}
+        - {x: -189, y: -78}
+        - {x: 190, y: -78}
+        - {x: 191, y: -79}
+    - name: baoshi_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 103
+        width: 142
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 25.5}
+        - {x: -64, y: 25.5}
+        - {x: -71, y: 23.5}
+        - {x: -71, y: -25.5}
+        - {x: 66, y: -25.5}
+        - {x: 71, y: -24.5}
+        - {x: 71, y: 20.5}
+        - {x: 66, y: 24.5}
+    - name: baoshi_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 127
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 135
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 135
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 86
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 29.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -24.5, y: -8.5}
+        - {x: -11.5, y: -29.5}
+        - {x: 17.5, y: -29.5}
+        - {x: 19.5, y: -28.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 15.5}
+        - {x: 12.5, y: 29.5}
+    - name: baoshi_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 88
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 29}
+        - {x: -24.5, y: 15}
+        - {x: -24.5, y: -23}
+        - {x: -16.5, y: -29}
+        - {x: 8.5, y: -29}
+        - {x: 24.5, y: -7}
+        - {x: 24.5, y: 7}
+        - {x: -0.5, y: 29}
+    - name: baoshi_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 34
+        width: 154
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 33.5}
+        - {x: -77, y: -33.5}
+        - {x: 77, y: -33.5}
+        - {x: 77, y: 33.5}
+    - name: baoshi_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 37
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 42}
+        - {x: -7, y: 42}
+        - {x: -44, y: 26}
+        - {x: -44, y: -30}
+        - {x: -16, y: -42}
+        - {x: 42, y: -42}
+        - {x: 44, y: -39}
+        - {x: 44, y: 39}
+    - name: baoshi_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 84
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 23.5}
+        - {x: -35, y: 18.5}
+        - {x: -35, y: -23.5}
+        - {x: 35, y: -23.5}
+        - {x: 35, y: 20.5}
+        - {x: 32, y: 23.5}
+    - name: baoshi_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 18
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 13
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 13
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 18
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_19
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 18
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_21
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40}
+        - {x: -40, y: -40}
+        - {x: 40, y: -40}
+        - {x: 40, y: 40}
+    - name: baoshi_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 5
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 38}
+        - {x: -22.5, y: 38}
+        - {x: -26.5, y: 34}
+        - {x: -27.5, y: 31}
+        - {x: -27.5, y: 9}
+        - {x: -8.5, y: -38}
+        - {x: 13.5, y: -38}
+        - {x: 18.5, y: -37}
+        - {x: 27.5, y: -32}
+        - {x: 27.5, y: -11}
+        - {x: 22.5, y: 34}
+    - name: baoshi_23
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 4
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: baoshi_27
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
